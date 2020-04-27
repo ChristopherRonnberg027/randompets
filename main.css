@@ -62,17 +62,18 @@ button:focus{
     outline: none;
 }
 @media screen and (max-width: 500px){
-
+/*
     body{
         background: tomato;
         color: white;
-        /*font-family: "Montserrat";*/
+        /*font-family: "Montserrat";
         font-family: "Libre Baskerville";
         font-weight: 700;
     }
     .results{
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr;
+        grid-template-rows: 1fr;
     }
+    */
 }
